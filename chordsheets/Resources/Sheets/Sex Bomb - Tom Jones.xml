@@ -1,0 +1,250 @@
+<sheet>
+  <description>
+    <title>Sex Bomb</title>
+    <artist>Tom Jones</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      Gm7
+      /
+      Gmmaj
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      Gmmaj
+      /
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+      </opening>
+      /
+      <annotation>+ brass</annotation>
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse (2×), refr. (1×)</annotation>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>bridge (breaks)</annotation>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      F
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Gm
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>solo</annotation>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm
+      Abm
+      Am
+      Bbm
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain 2 (ad lib)</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      F#7
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

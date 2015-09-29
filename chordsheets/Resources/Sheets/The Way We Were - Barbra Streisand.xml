@@ -1,0 +1,247 @@
+<sheet>
+  <description>
+    <title>The Way We Were</title>
+    <artist>Barbra Streisand</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>A</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      A
+      /
+      Amaj
+      /
+    </bar>
+    <bar>
+      Dmaj
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      A
+      /
+      C#m7
+      /
+    </bar>
+    <bar>
+      Dmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      F#m/E
+      /
+    </bar>
+    <bar>
+      Dmaj
+      /
+      C#m
+      C#7
+    </bar>
+    <bar>
+      F#m
+      /
+      F#m/E
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+      </closing>
+    </bar>
+    <bar>
+      Dmaj
+      /
+      E4
+      E
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Amaj
+      /
+      F#m7
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      E7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      Amaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Dmaj
+      /
+      /
+      C#m7
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#sus
+      /
+      F#7
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      Bm/A
+      /
+    </bar>
+    <bar>
+      Esus
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      Amaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Esus
+      /
+      E7
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Dmaj
+      /
+      C#4
+      C#
+    </bar>
+    <bar>
+      F#m7
+      /
+      F#m/E
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Dmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      Dmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      F#m7
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      Esus
+      /
+    </bar>
+    <bar>
+      Amaj
+      /
+      Dmaj
+      /
+    </bar>
+    <bar>
+      Amaj
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

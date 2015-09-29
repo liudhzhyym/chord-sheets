@@ -1,0 +1,298 @@
+<sheet>
+  <description>
+    <title>Easy Lover</title>
+    <artist>Phil Collins</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro/outro/key fig.</annotation>
+      Fmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Fmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      D
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro 2/solos 4× after D.C.</annotation>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      D
+      <annotation>after solo to bridge</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      D
+      <annotation>after solo/bridge 5×</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      <annotation>last time D.C. to intro as ending</annotation>
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      Em7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      Em7
+      <annotation>2nd time D.C.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      Fmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C
+      /
+      D
+      <annotation>1st/3rd D.S.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

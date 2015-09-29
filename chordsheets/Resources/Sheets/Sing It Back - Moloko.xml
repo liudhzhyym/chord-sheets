@@ -1,0 +1,44 @@
+<sheet>
+  <description>
+    <title>Sing It Back</title>
+    <artist>Moloko</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Eb-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Ebm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbsus
+      /
+      Bb7+
+      /
+    </bar>
+    <bar>
+      Ebm9
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

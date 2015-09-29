@@ -1,0 +1,296 @@
+<sheet>
+  <description>
+    <title>Son of a Preacher Man</title>
+    <artist>Dusty Springfield</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro/git. riff</annotation>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      E
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      E
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      E
+      /
+    </bar>
+    <bar>
+      E
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      B
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>verse</annotation>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      A
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      A
+      /
+    </bar>
+    <bar>
+      A
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain ad lib</annotation>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      A
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      A
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

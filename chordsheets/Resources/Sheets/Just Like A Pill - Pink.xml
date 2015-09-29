@@ -1,0 +1,197 @@
+<sheet>
+  <description>
+    <title>Just Like a Pill</title>
+    <artist>Pink</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>A</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,272 @@
+<sheet>
+  <description>
+    <title>Moving On Up</title>
+    <artist>M People</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Eb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Ab/C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      Ab/C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      Bbsus
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Eb/C
+      /
+      Fm
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Fm7
+      /
+      Bbsus
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Cm7
+      <annotation>groove</annotation>
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>sax riff</annotation>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>rhodes riff</annotation>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Eb/C
+      /
+      Fm
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Fm7
+      /
+      <annotation>ad lib</annotation>
+      Bbsus
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

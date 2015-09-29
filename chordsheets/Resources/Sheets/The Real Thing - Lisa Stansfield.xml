@@ -1,0 +1,284 @@
+<sheet>
+  <description>
+    <title>The Real Thing</title>
+    <artist>Lisa Stansfield</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Gb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro (breaks)</annotation>
+      Fmaj
+      /
+      /
+      Fmaj
+    </bar>
+    <bar>
+      G2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Dm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Fm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      Csus
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Fm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      Csus
+      /
+    </bar>
+    <bar>
+      Csus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Gbm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abm7
+      /
+      /
+      <annotation>ad lib</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

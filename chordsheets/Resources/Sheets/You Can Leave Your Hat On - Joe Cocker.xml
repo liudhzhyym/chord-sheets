@@ -1,0 +1,212 @@
+<sheet>
+  <description>
+    <title>You Can Leave Your Hat On</title>
+    <artist>Joe Cocker</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>C</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>brass-intro</annotation>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Bb7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>piano fig.</annotation>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7/E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G7#9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse with fuzz git.</annotation>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="7"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <pause/>
+      </opening>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>to refr., rep. ad lib</annotation>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

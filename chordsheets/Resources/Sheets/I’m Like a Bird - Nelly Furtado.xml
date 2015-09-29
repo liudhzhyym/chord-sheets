@@ -1,0 +1,259 @@
+<sheet>
+  <description>
+    <title>I’m Like a Bird</title>
+    <artist>Nelly Furtado</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      F7
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>outro–refrain</annotation>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      <annotation>rep. ad lib</annotation>
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

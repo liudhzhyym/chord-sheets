@@ -1,0 +1,48 @@
+<sheet>
+  <description>
+    <title>Rise &amp; Fall</title>
+    <artist>Sting/Craig David</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>A</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      F#m
+      /
+      E
+      /
+    </bar>
+    <bar>
+      D
+      /
+      C#4
+      C#
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,413 @@
+<sheet>
+  <description>
+    <title>Satellite</title>
+    <artist>Lena</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>B-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro (instr.)</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 1+2</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb+
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm/A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>interlude (instr.)</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>bridge</annotation>
+      Gmaj7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Gmaj7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      F#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 3</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb+
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm/A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>drum break</annotation>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>fine</annotation>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+  </notation>
+</sheet>

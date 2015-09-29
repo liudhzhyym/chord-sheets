@@ -1,0 +1,311 @@
+<sheet>
+  <description>
+    <title>Ironic</title>
+    <artist>Alanis Morisette</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>B</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 1/2</annotation>
+      F#/A#
+      /
+      B2
+      /
+    </bar>
+    <bar>
+      F#/A#
+      /
+      G#m
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+      </opening>
+      <annotation>refrain</annotation>
+      F#
+      /
+      B
+      /
+    </bar>
+    <bar>
+      F#
+      /
+      G#m
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      E
+      /
+    </bar>
+    <bar>
+      F#
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>bridge</annotation>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#m7/F#
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 3</annotation>
+      F#/A#
+      /
+      B2
+      /
+    </bar>
+    <bar>
+      F#/A#
+      /
+      G#m7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      G#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F/A#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#m7/F#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>ad lib</annotation>
+      G#m7/F#
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

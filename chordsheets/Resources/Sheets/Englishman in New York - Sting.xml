@@ -1,0 +1,239 @@
+<sheet>
+  <description>
+    <title>Englishman in New York</title>
+    <artist>Sting</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      Em
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      A
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 1</annotation>
+      Em
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      A
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 2/3</annotation>
+      Em
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      A
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Em
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      A
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      <annotation>D.S.</annotation>
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      <annotation>bridge</annotation>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#/A#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>solos/refrain</annotation>
+      Em
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      A
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>ad lib</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

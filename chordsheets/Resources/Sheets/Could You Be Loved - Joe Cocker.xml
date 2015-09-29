@@ -1,0 +1,368 @@
+<sheet>
+  <description>
+    <title>Could You Be Loved</title>
+    <artist>Joe Cocker</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+      </opening>
+      <annotation>verse</annotation>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Cm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Cm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      /
+      Bb/D
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      /
+      Bb/D
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      /
+      F
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>rep. ad lib</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

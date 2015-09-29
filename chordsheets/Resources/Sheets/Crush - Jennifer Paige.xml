@@ -1,0 +1,141 @@
+<sheet>
+  <description>
+    <title>Crush</title>
+    <artist>Jennifer Paige</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>C#-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B/C#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m/C#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#m/C#
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B/C#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m/C#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#m/C#
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Amaj
+      /
+      /
+      G#m
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>D.S.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

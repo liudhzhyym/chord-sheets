@@ -1,0 +1,213 @@
+<sheet>
+  <description>
+    <title>Nothing Else Matters</title>
+    <artist>Metallica</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E-</keysignature>
+        <timesignature>3/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Em
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      D
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      D
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      D
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      G
+      /
+      /
+    </bar>
+    <bar>
+      B
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      C
+      <annotation>bridge</annotation>
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

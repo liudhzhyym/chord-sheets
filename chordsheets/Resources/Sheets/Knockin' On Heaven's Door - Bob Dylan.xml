@@ -1,0 +1,130 @@
+<sheet>
+  <description>
+    <title>Knockin' On Heaven's Door</title>
+    <artist>Bob Dylan</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      G
+      /
+      D
+      /
+    </bar>
+    <bar>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      D
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      D
+      /
+    </bar>
+    <bar>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      D
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>verse</annotation>
+      G
+      /
+      D
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

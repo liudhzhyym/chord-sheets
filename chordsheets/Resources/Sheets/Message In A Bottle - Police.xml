@@ -1,0 +1,165 @@
+<sheet>
+  <description>
+    <title>Message In A Bottle</title>
+    <artist>Police</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>C#-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      C#2
+      /
+      A2
+      /
+    </bar>
+    <bar>
+      B2
+      /
+      F#2
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      E
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>Refrain</annotation>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,152 @@
+<sheet>
+  <description>
+    <title>Frozen</title>
+    <artist>Madonna</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Ab</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Fm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Fm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abmaj
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      <annotation>fine</annotation>
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

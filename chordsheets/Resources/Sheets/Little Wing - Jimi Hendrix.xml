@@ -1,0 +1,87 @@
+<sheet>
+  <description>
+    <title>Little Wing</title>
+    <artist>Jimi Hendrix</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      Bbm7
+    </bar>
+    <bar>
+      Am
+      /
+      C
+      /
+    </bar>
+    <bar>
+      G
+      /
+      F
+      /
+    </bar>
+    <bar>
+      C
+      /
+      D
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>2/4</timesignature>
+      </opening>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

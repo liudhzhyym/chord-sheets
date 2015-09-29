@@ -1,0 +1,196 @@
+<sheet>
+  <description>
+    <title>Cosmic Girl</title>
+    <artist>Jamiroquai</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>breaks</annotation>
+      C
+      /
+      F#m
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      B7
+      /
+      C#m
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      G#m
+      /
+      F#m
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      B7
+      /
+      C#m
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>synth melody</annotation>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      <annotation>D.S.</annotation>
+      B7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

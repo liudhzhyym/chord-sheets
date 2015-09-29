@@ -1,0 +1,305 @@
+<sheet>
+  <description>
+    <title>Fields Of Gold</title>
+    <artist>Sting</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>D</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>Intro</annotation>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm11
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Bm11
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm11
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      D
+      /
+    </bar>
+    <bar>
+      G/B
+      /
+      A
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      <annotation>1/3</annotation>
+      Bm
+      /
+      <annotation>tin whistle</annotation>
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      G
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      <annotation>2/5/6</annotation>
+      D
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="4"/>
+      </opening>
+      D
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      G2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G/B
+      /
+      A
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G/B
+      /
+      A
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      G/B
+      /
+      A
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      D
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      D
+      /
+      G/D
+      <annotation>rep 7x</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

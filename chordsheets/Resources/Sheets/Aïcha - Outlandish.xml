@@ -1,0 +1,202 @@
+<sheet>
+  <description>
+    <title>Aïcha</title>
+    <artist>Outlandish</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>B-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      Bm
+      /
+      G
+      /
+    </bar>
+    <bar>
+      D
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      G
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      Em
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>rap</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Bm
+      /
+      G
+      /
+    </bar>
+    <bar>
+      D
+      /
+      A
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse/refrain</annotation>
+      Bm
+      /
+      G
+      /
+    </bar>
+    <bar>
+      D
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      G
+      /
+    </bar>
+    <bar>
+      D
+      /
+      <annotation>fine</annotation>
+      Em/A
+      <annotation>7×</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      B7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>D.S.</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

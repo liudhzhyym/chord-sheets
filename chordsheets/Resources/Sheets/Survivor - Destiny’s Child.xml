@@ -1,0 +1,68 @@
+<sheet>
+  <description>
+    <title>Survivor</title>
+    <artist>Destiny’s Child</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Ab-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      G#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#m
+      /
+      D#7
+      /
+    </bar>
+    <bar>
+      G#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#m
+      /
+      D#7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

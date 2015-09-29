@@ -1,0 +1,237 @@
+<sheet>
+  <description>
+    <title>You Are The Sunshine Of My Life</title>
+    <artist>Stevie Wonder</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>B</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      Bmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      F#7#5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      B
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#/E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#7b9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      F#7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>verse</annotation>
+      Bmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      F#7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm7b5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb7alt
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      Eb7
+      /
+    </bar>
+    <bar>
+      Abm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>to refr. in C, rep. ad lib</annotation>
+      G7
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

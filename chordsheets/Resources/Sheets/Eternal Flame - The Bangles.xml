@@ -1,0 +1,274 @@
+<sheet>
+  <description>
+    <title>Eternal Flame</title>
+    <artist>The Bangles</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      G
+      /
+      G4
+      /
+    </bar>
+    <bar>
+      G
+      /
+      G4
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      G
+      /
+      Em7
+      /
+    </bar>
+    <bar>
+      C
+      /
+      D
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      A
+      /
+    </bar>
+    <bar>
+      D
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      A4
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      A4
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      D
+      /
+      F/D
+      /
+    </bar>
+    <bar>
+      G/D
+      /
+      D
+      /
+    </bar>
+    <bar>
+      F
+      /
+      G
+      /
+    </bar>
+    <bar>
+      C
+      G/B
+      Am
+      G
+    </bar>
+    <bar>
+      D
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      C6
+      /
+      C
+      /
+    </bar>
+    <bar>
+      D4
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Em
+      /
+      <annotation>instrumental</annotation>
+      A
+      /
+    </bar>
+    <bar>
+      D
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      A4
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      D4
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      G
+      /
+      Em7
+      /
+    </bar>
+    <bar>
+      C
+      /
+      D
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      A
+      /
+    </bar>
+    <bar>
+      D
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      A4
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

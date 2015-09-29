@@ -1,0 +1,243 @@
+<sheet>
+  <description>
+    <title>I’m So Excited</title>
+    <artist>The Pointer Sisters</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+      </opening>
+      <annotation>bridge</annotation>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      Dm
+      /
+    </bar>
+    <bar>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      Dm7
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      F
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 2</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain 2×, solo 2×</annotation>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      F
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      F
+      /
+    </bar>
+    <bar>
+      Gm
+      <annotation>rep. ad lib</annotation>
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,243 @@
+<sheet>
+  <description>
+    <title>Don’t Know Why</title>
+    <artist>Norah Jones</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Bb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      Bbmaj
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>verse 1</annotation>
+      Bbmaj
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      Bb
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      Bb
+      /
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse 2</annotation>
+      Bb
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      Bb
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      Bb
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F7
+      /
+      F7/Eb
+      /
+    </bar>
+    <bar>
+      F/D
+      /
+      F/C
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>solos</annotation>
+      Bb
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      Bb
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      <annotation>fine</annotation>
+      Bb
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

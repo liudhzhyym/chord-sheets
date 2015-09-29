@@ -1,0 +1,44 @@
+<sheet>
+  <description>
+    <title>Finally</title>
+    <artist>CeCe Peniston</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>B-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m/A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em/G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      Asus
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

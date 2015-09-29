@@ -1,0 +1,304 @@
+<sheet>
+  <description>
+    <title>Fantasy</title>
+    <artist>Earth, Wind &amp; Fire</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      Em7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      Gmaj
+      /
+    </bar>
+    <bar>
+      A
+      /
+      B
+      /
+    </bar>
+    <bar>
+      Esus
+      /
+      E
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>accents (9×)</annotation>
+      E
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Am7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      D
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      D
+      /
+    </bar>
+    <bar>
+      Esus
+      /
+      E
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      D
+      /
+    </bar>
+    <bar>
+      C/E
+      /
+      D
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      F#m7
+      /
+    </bar>
+    <bar>
+      Gmaj
+      /
+      /
+      F#m7
+    </bar>
+    <bar>
+      Em7
+      /
+      F#m7
+      /
+    </bar>
+    <bar>
+      Gmaj
+      /
+      /
+      F#m7
+    </bar>
+    <bar>
+      Em7
+      /
+      F#m7
+      /
+    </bar>
+    <bar>
+      Gmaj
+      /
+      /
+      Asus
+    </bar>
+    <bar>
+      Bsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B7
+      /
+      /
+      <annotation>D.S.</annotation>
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em7
+      /
+      Am7
+      /
+    </bar>
+    <bar>
+      Dsus
+      /
+      Gmaj
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      Cmaj
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Bbdim
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Bsus
+      /
+      B7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+        <timesignature>2/4</timesignature>
+      </opening>
+      B7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>4/4</timesignature>
+      </opening>
+      E2/F#
+      /
+      F#7/E
+      /
+    </bar>
+    <bar>
+      D7
+      /
+      D4
+      D7
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Gm7
+      /
+      Cm7
+      /
+    </bar>
+    <bar>
+      Fsus
+      /
+      Bbmaj
+      /
+    </bar>
+    <bar>
+      Dm7
+      /
+      Enmaj
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      C#dim
+      /
+    </bar>
+    <bar>
+      D4
+      /
+      D/C
+      /
+    </bar>
+    <bar>
+      Gm/Bb
+      /
+      Am7
+      D7
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

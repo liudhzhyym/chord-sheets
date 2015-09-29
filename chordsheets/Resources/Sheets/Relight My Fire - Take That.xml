@@ -1,0 +1,356 @@
+<sheet>
+  <description>
+    <title>Relight My Fire</title>
+    <artist>Take That</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>D</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      Em
+      D/F#
+      G
+      A
+    </bar>
+    <bar>
+      /
+      Bsus
+      Bm
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Gmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      A
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E/G#
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      A
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>bridge</annotation>
+      Em
+      D/F#
+      G
+      A
+    </bar>
+    <bar>
+      /
+      Bsus
+      Bm
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Gmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Em7
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      A
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      E7
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em7
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      E7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      A
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      Asus
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em7
+      /
+      A
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>ad lib</annotation>
+      A
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

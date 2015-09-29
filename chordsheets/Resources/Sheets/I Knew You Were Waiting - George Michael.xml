@@ -1,0 +1,252 @@
+<sheet>
+  <description>
+    <title>I Knew You Were Waiting</title>
+    <artist>George Michael</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>verse</annotation>
+      F#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>break</annotation>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+      </opening>
+      <annotation>refrain</annotation>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      C#m7
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      <annotation>fine</annotation>
+      Amaj
+      <annotation>D.C. al coda</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A/C#
+      /
+      Am/C
+      /
+    </bar>
+    <bar>
+      E/B
+      /
+      G#7
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A/C#
+      /
+      Am/C
+      /
+    </bar>
+    <bar>
+      E/B
+      /
+      G#7
+      /
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>breaks</annotation>
+      F#m7
+      /
+      C#m7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      F#m7
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      A
+      <annotation>D.S. al fine</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,123 @@
+<sheet>
+  <description>
+    <title>Over The Rainbow</title>
+    <artist>Ray Charles</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Eb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>A1/A2</annotation>
+      Eb
+      /
+      Cm7
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      Ebmaj
+      Eb7
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab6
+      /
+      Abm6
+      /
+    </bar>
+    <bar>
+      Eb/G
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      F7
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>B</annotation>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      Eb
+      Eb/D
+      Eb/C
+      Eb/Bb
+    </bar>
+    <bar>
+      Am7b5
+      /
+      D7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      Gdim
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      <annotation>fine</annotation>
+      Bb7
+      <annotation>D.S.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

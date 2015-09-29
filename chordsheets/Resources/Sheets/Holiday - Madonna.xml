@@ -1,0 +1,45 @@
+<sheet>
+  <description>
+    <title>Holiday</title>
+    <artist>Madonna</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      G
+      /
+      A
+      /
+    </bar>
+    <bar>
+      A
+      /
+      Bm
+      /
+    </bar>
+    <bar>
+      G
+      /
+      A
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      G
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

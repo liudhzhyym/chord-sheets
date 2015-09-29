@@ -1,0 +1,308 @@
+<sheet>
+  <description>
+    <title>Jump</title>
+    <artist>Van Halen</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>C</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>key-riff</annotation>
+      G/C
+      /
+      C
+      /
+    </bar>
+    <bar>
+      F/C
+      /
+      G/C
+      /
+    </bar>
+    <bar>
+      /
+      C
+      F/C
+      /
+    </bar>
+    <bar>
+      /
+      F2
+      G4
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      F/C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      C
+    </bar>
+    <bar>
+      /
+      F/C
+      /
+      /
+    </bar>
+    <bar>
+      /
+      F2
+      G4
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse + refrain</annotation>
+      G/C
+      /
+      C
+      /
+    </bar>
+    <bar>
+      F/C
+      /
+      G/C
+      /
+    </bar>
+    <bar>
+      /
+      C
+      F/C
+      /
+    </bar>
+    <bar>
+      /
+      F2
+      G4
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      F
+      /
+      Em
+      /
+    </bar>
+    <bar>
+      Dm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      Em
+      /
+    </bar>
+    <bar>
+      Dm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      Em
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>git.-solo</annotation>
+      Bbm
+      /
+      Gb
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      Db
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>key-solo</annotation>
+      C
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>key solo cont.</annotation>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Abmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C/G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>D.C., refr. ad lib</annotation>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

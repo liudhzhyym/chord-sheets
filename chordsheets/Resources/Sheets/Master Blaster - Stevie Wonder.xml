@@ -1,0 +1,231 @@
+<sheet>
+  <description>
+    <title>Master Blaster</title>
+    <artist>Stevie Wonder</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>B-</keysignature>
+        <timesignature>4/4</timesignature>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro + verse</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      A
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      F#
+      /
+    </bar>
+    <bar>
+      E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      <annotation>after D.S. 2×</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>unisono riff 1</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      <annotation>rep. ad lib, cue to ending</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>ending/unisono riff 2</annotation>
+      Bm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

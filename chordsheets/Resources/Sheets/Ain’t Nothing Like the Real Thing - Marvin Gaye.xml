@@ -1,0 +1,159 @@
+<sheet>
+  <description>
+    <title>Ain’t Nothing Like the Real Thing</title>
+    <artist>Marvin Gaye</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Soul</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Eb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Eb
+      /
+      Ebmaj
+      /
+    </bar>
+    <bar>
+      Ab/Eb
+      Eb
+      F/Eb
+      Eb
+    </bar>
+    <bar>
+      Abmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      /
+      /
+      <closing>
+        <barline class="single" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      Eb/D
+      Cm7
+      Bbsus
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="single" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Eb
+      /
+      Fm
+      Eb/G
+    </bar>
+    <bar>
+      Abmaj
+      /
+      G7alt
+      /
+    </bar>
+    <bar>
+      Cm11
+      /
+      Cm7
+      /
+    </bar>
+    <bar>
+      Bbm7
+      Eb/G
+      Abmaj
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Eb
+      /
+      Ebmaj
+      /
+    </bar>
+    <bar>
+      Ab/Eb
+      Eb
+      F/Eb
+      Eb
+    </bar>
+    <bar>
+      Abmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      /
+      <annotation>verse senza rep.</annotation>
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Eb
+      /
+      Eb+
+      /
+    </bar>
+    <bar>
+      Cm
+      /
+      Eb7
+      /
+    </bar>
+    <bar>
+      Abmaj
+      /
+      Eb
+      /
+    </bar>
+    <bar>
+      C7b9
+      /
+      Fm7
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      <annotation>1× verse, refr. ad lib</annotation>
+      Bbsus
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,174 @@
+<sheet>
+  <description>
+    <title>That’s What Friends Are For</title>
+    <artist>Dionne Warwick</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Eb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>Intro</annotation>
+      Eb
+      /
+      Bb/D
+      /
+    </bar>
+    <bar>
+      Ab/C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      Cm7
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      Bbsus
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Eb
+      /
+      Gm7
+      Cm7
+    </bar>
+    <bar>
+      Fm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm7b5
+      /
+      Gsus
+      G7
+    </bar>
+    <bar>
+      Cm7
+      /
+      Ab
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>2/4</timesignature>
+        <ending count="1"/>
+      </opening>
+      Fm7/Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>4/4</timesignature>
+        <ending count="2"/>
+      </opening>
+      Fm7/Bb
+      /
+      Bbsus
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Eb
+      /
+      Gm/D
+      /
+    </bar>
+    <bar>
+      Ab/C
+      /
+      /
+      Bb/Ab
+    </bar>
+    <bar>
+      Gm7
+      /
+      Cm7
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      Bbsus
+      Bb7
+    </bar>
+    <bar>
+      Eb
+      /
+      Gm/D
+      /
+    </bar>
+    <bar>
+      Db6
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      B7#11
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>2/4</timesignature>
+      </opening>
+      Bbsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>4/4</timesignature>
+      </opening>
+      <annotation>after D.S. refrain 2x, then play Intro as Extro</annotation>
+      Bbsus
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

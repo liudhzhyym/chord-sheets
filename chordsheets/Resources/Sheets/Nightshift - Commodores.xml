@@ -1,0 +1,345 @@
+<sheet>
+  <description>
+    <title>Nightshift</title>
+    <artist>Commodores</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Ab</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      Db
+      Fm
+    </bar>
+    <bar>
+      Eb2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Db2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      Db
+      Fm
+    </bar>
+    <bar>
+      Eb2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Db2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Fm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Fm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      Db
+      Fm
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Db2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      Db2
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+      </closing>
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>synth bass fig.</annotation>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      Db
+      Fm
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Fm
+      <annotation>to refrain, rep. ad lib</annotation>
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

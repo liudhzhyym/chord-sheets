@@ -1,0 +1,165 @@
+<sheet>
+  <description>
+    <title>I Will Love Again</title>
+    <artist>Lara Fabian</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>A-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse/refrain</annotation>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C/G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="8"/>
+      </closing>
+    </bar>
+    <bar>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gsus
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain ad lib</annotation>
+      Am
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C/G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

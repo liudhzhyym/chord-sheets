@@ -1,0 +1,127 @@
+<sheet>
+  <description>
+    <title>Just The Two Of Us</title>
+    <artist>Bill Withers</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>F</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>1x Intro/2x verse/2x refrain</annotation>
+      Fmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="5"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Fmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      Bb6
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>6/4</timesignature>
+      </opening>
+      <annotation>(hold)</annotation>
+      Bb6
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,233 @@
+<sheet>
+  <description>
+    <title>If You Don’t Know Me By Now</title>
+    <artist>Simply Red</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Bb</keysignature>
+        <timesignature>3/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      Bb
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Dm
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ebm/Gb
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Bb
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Dm7
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Fsus
+      /
+      /
+    </bar>
+    <bar>
+      F
+      Gm
+      F7A
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Db
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Gbmaj
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ebm7
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Fsus
+      /
+      /
+    </bar>
+    <bar>
+      F7
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Bb
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Dm7
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Eb
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ebm/Gb
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>D.S./last time rep. refr.</annotation>
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

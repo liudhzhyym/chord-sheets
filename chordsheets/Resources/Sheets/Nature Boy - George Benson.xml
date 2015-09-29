@@ -1,0 +1,187 @@
+<sheet>
+  <description>
+    <title>Nature Boy</title>
+    <artist>George Benson</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>D-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Dm6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7b5
+      /
+      A7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm
+      /
+      Dmmaj
+      /
+    </bar>
+    <bar>
+      Dm7
+      /
+      Dm6
+      /
+    </bar>
+    <bar>
+      Gm6
+      /
+      Dm6
+      /
+    </bar>
+    <bar>
+      Em7b5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      A7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Dm6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Bm7b5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      A7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Dm6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7b5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7b5
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      Bb7
+      /
+      A7
+      /
+    </bar>
+    <bar>
+      Dm6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7b5
+      /
+      <annotation>D.C.</annotation>
+      A7
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

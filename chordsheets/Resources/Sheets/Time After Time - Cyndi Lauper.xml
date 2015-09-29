@@ -1,0 +1,239 @@
+<sheet>
+  <description>
+    <title>Time After Time</title>
+    <artist>Cyndi Lauper</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>C</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Dm/C
+      /
+      C
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      F
+      /
+      G
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      F
+      /
+    </bar>
+    <bar>
+      F
+      /
+      G
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      G
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Em
+      /
+      F
+      /
+    </bar>
+    <bar>
+      Gsus
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      F
+      /
+      G
+      /
+    </bar>
+    <bar>
+      Em
+      /
+      F
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      G
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      G
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>after D.S. to bridge/refrain/ending</annotation>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>ending</annotation>
+      F
+      /
+      G
+      /
+    </bar>
+    <bar>
+      C
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

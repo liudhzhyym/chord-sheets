@@ -1,0 +1,44 @@
+<sheet>
+  <description>
+    <title>Shackles</title>
+    <artist>Mary Mary</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Cm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      D7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

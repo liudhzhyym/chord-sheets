@@ -1,0 +1,166 @@
+<sheet>
+  <description>
+    <title>Signed, Sealed, Delivered I’m Yours</title>
+    <artist>Stevie Wonder</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>F</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro</annotation>
+      F
+      F/Eb
+      Dm
+      F/C
+    </bar>
+    <bar>
+      Bb
+      /
+      F/A
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm
+      /
+      F7
+      /
+    </bar>
+    <bar>
+      Bb7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Csus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      F/Eb
+      Dm
+      F/C
+    </bar>
+    <bar>
+      Bb
+      /
+      F/A
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      F
+      /
+      F7/A
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      Csus
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>D.C., then rep. refr. ad lib</annotation>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>ending (breaks)</annotation>
+      /
+      Bb
+      /
+      /
+    </bar>
+    <bar>
+      C7#9
+      C7#9
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      F7/A
+      /
+    </bar>
+    <bar>
+      F
+      /
+      F7
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,103 @@
+<sheet>
+  <description>
+    <title>Hot In Here</title>
+    <artist>Nelly</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>Intro</annotation>
+      G/E
+      /
+      F#/E
+      /
+    </bar>
+    <bar>
+      F#/E
+      /
+      F/E
+      /
+    </bar>
+    <bar>
+      G/E
+      /
+      F#/E
+      /
+    </bar>
+    <bar>
+      F#/E
+      /
+      F/E
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse/Refrain</annotation>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F/E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G/E
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#/E
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

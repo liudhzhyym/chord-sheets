@@ -1,0 +1,141 @@
+<sheet>
+  <description>
+    <title>Let Me Entertain You</title>
+    <artist>Robbie Williams</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>F</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>piano-intro</annotation>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab/F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb/F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab/F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb/F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>bridge</annotation>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab/Eb
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bb/D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>to intro, then refr. ad lib</annotation>
+      F
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

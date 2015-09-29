@@ -1,0 +1,409 @@
+<sheet>
+  <description>
+    <title>ABC</title>
+    <artist>Jackson Five/Michael Jackson</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Ab</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>intro (git.)</annotation>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      <opening>
+        <pause/>
+      </opening>
+      <annotation>piano fill</annotation>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      <opening>
+        <pause/>
+      </opening>
+      <annotation>piano fill</annotation>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      Db2
+      Eb2
+      Fm
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Ab
+      Eb/G
+      Fm
+      /
+    </bar>
+    <bar>
+      Db
+      Eb
+      Ab
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      Ab
+      Eb/G
+      Fm
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>2/4</timesignature>
+      </opening>
+      Db
+      Eb
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="4"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ab
+      Eb/G
+      Fm
+      /
+    </bar>
+    <bar>
+      Db
+      Eb
+      Ab
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      Eb/G
+      Fm
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>2/4</timesignature>
+      </opening>
+      Db
+      Eb
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>voc + drums only</annotation>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="5"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      Db
+      Eb
+      Fm
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      Db
+      Eb
+      Fm
+      /
+    </bar>
+    <bar>
+      Ab
+      Eb/G
+      Fm
+      /
+    </bar>
+    <bar>
+      Db
+      Eb
+      Ab
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      <opening>
+        <pause/>
+      </opening>
+      <annotation>piano fill</annotation>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      <opening>
+        <pause/>
+      </opening>
+      <annotation>piano fill</annotation>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      Bbm
+      Ab/C
+      /
+    </bar>
+    <bar>
+      Db2
+      Eb2
+      Fm
+      /
+    </bar>
+    <bar>
+      Ab
+      Eb/G
+      Fm
+      /
+    </bar>
+    <bar>
+      Db
+      Eb
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      <annotation>repeat and fade</annotation>
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

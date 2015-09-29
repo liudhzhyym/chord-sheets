@@ -1,0 +1,123 @@
+<sheet>
+  <description>
+    <title>Isn’t She Lovely?</title>
+    <artist>Stevie Wonder</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain</annotation>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Emaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <annotation>verse</annotation>
+      Amaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#7b9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>riff</annotation>
+      E6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

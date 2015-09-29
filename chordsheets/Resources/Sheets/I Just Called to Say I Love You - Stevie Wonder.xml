@@ -1,0 +1,349 @@
+<sheet>
+  <description>
+    <title>I Just Called to Say I Love You</title>
+    <artist>Stevie Wonder</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Db</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Db
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="5"/>
+      </closing>
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebmmaj
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      Ebm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebmmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebmmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>after D.C. to segno senza rep.</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Ebm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ebm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ebm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Ebm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>D.C. al coda senza rep.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>after D.S. 1/2 step higher</annotation>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Bm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      D
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      <annotation>to coda/change key to Eb</annotation>
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      B
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Eb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,76 @@
+<sheet>
+  <description>
+    <title>No Woman No Cry</title>
+    <artist>Bob Marley</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Db</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>Refrain</annotation>
+      Db
+      /
+      Ab/C
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      Gb
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      Gb
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      Ab
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Db
+      /
+      Ab/C
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      Gb
+      /
+    </bar>
+    <bar>
+      Db
+      /
+      Ab/C
+      /
+    </bar>
+    <bar>
+      Bbm7
+      /
+      Gb
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,44 @@
+<sheet>
+  <description>
+    <title>Waiting For Tonight</title>
+    <artist>Jennifer Lopez</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Bb-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Bbm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm/Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Fm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gbmaj
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

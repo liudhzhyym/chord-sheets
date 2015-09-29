@@ -1,0 +1,138 @@
+<sheet>
+  <description>
+    <title>Get Down On It</title>
+    <artist>Kool &amp; the Gang</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>git. fig</annotation>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>riff</annotation>
+      Em7
+      /
+      Bm
+      C
+    </bar>
+    <bar>
+      D
+      /
+      Am
+      Bm
+    </bar>
+    <bar>
+      Em
+      /
+      Bm
+      C
+    </bar>
+    <bar>
+      D
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>refrain/verse</annotation>
+      Em7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Am7
+      Bm7
+    </bar>
+    <bar>
+      Em7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      Dsus
+      /
+      /
+      <annotation>12x</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>riff</annotation>
+      Em7
+      /
+      Bm
+      C
+    </bar>
+    <bar>
+      D
+      /
+      Am
+      Bm
+    </bar>
+    <bar>
+      Em
+      /
+      Bm
+      C
+    </bar>
+    <bar>
+      D
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

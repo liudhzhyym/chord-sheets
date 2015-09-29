@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sheet>
+	
+	<description>
+		
+		<title>New Song</title>
+		
+		<artist>Unknown Artist</artist>
+		<composer>Unknown</composer>
+		
+		<tempo bpm="100"/>
+		
+		<style>Pop</style>
+		
+		<copyright>Unknown</copyright>
+		
+	</description>
+	
+	
+	<notation>
+        
+		<bar>
+			<opening>
+				<keysignature>C</keysignature>
+				<timesignature>4/4</timesignature>
+				<barline class="double"/>
+			</opening>
+		</bar>
+        
+		<bar>
+            
+		</bar>
+        
+		<bar/>
+        
+		<bar>
+		</bar>
+		
+    </notation>
+	
+	
+</sheet>

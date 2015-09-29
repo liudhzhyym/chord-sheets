@@ -1,0 +1,176 @@
+<sheet>
+  <description>
+    <title>Boogie Wonderland</title>
+    <artist>Earth, Wind &amp; Fire</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>F</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Dm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Gm9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Dm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      Gm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7#5
+      /
+      /
+      <annotation>rep. 11×</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      Csus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm/C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Dm7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Csus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Dm7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Csus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Dm7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      Csus
+      /
+    </bar>
+    <bar>
+      Em7b5
+      /
+      Am7
+      /
+    </bar>
+    <bar>
+      Dm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm/C
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A7#5
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

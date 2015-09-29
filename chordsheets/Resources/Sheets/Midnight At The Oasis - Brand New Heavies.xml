@@ -1,0 +1,197 @@
+<sheet>
+  <description>
+    <title>Midnight At The Oasis</title>
+    <artist>Brand New Heavies</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Eb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      Ebmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abm7
+      /
+      Db7
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Absus
+      /
+      Bb7
+      /
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Ebmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abm7
+      /
+      Db7
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abm7
+      /
+      Db7
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Abm7
+      /
+      Db7
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Absus
+      /
+      Bb7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      E
+      /
+      F#
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      C#m7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      E
+      /
+      F#
+      /
+    </bar>
+    <bar>
+      Bsus
+      /
+      C#m7
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      Bb
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Abm7
+      /
+      Db7
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>2/4</timesignature>
+      </opening>
+      Ab7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>4/4</timesignature>
+      </opening>
+      Bbsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Eb7#9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab13
+      /
+      <annotation>ad lib</annotation>
+      Bb7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

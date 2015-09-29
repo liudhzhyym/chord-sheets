@@ -1,0 +1,182 @@
+<sheet>
+  <description>
+    <title>You Are So Beautiful</title>
+    <artist>Joe Cocker</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Ab</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      /
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      Ab
+      /
+      Ab/Gb
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      Db
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      Ab
+      /
+      Abmaj
+      Ab7
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      Dbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gb7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      Abmaj
+      /
+    </bar>
+    <bar>
+      Ab7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gb7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      Abmaj
+      /
+    </bar>
+    <bar>
+      Ebm7
+      /
+      Ab7
+      /
+    </bar>
+    <bar>
+      Dbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C7b9
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      Fm9
+      /
+    </bar>
+    <bar>
+      Bb7#11
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      Abmaj
+      Ab7
+    </bar>
+    <bar>
+      Db
+      /
+      Gb7
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+      </closing>
+    </bar>
+    <bar>
+      Ab
+      /
+      Abmaj
+      /
+    </bar>
+    <bar>
+      Ab7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      <annotation>very last time</annotation>
+      Ab
+      /
+      Ab/Gb
+      /
+    </bar>
+    <bar>
+      Fm
+      /
+      Gb7
+      /
+    </bar>
+    <bar>
+      Ab2
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

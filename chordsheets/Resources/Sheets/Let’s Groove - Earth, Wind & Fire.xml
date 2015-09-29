@@ -1,0 +1,101 @@
+<sheet>
+  <description>
+    <title>Let’s Groove</title>
+    <artist>Earth, Wind &amp; Fire</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse and refrain</annotation>
+      Em
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7
+      /
+      Bm7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge (on cue)</annotation>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      Em7
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      Em7
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Dm7
+      /
+      Gm7
+      /
+    </bar>
+    <bar>
+      F#7#9
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B7
+      B7
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

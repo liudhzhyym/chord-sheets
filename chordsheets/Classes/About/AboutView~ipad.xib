@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AboutViewController">
+            <connections>
+                <outlet property="backButtonTop" destination="40" id="225"/>
+                <outlet property="leftTextLabel" destination="204" id="240"/>
+                <outlet property="rightTextLabel" destination="223" id="239"/>
+                <outlet property="scrollView" destination="34" id="37"/>
+                <outlet property="versionLabelTop" destination="45" id="226"/>
+                <outlet property="view" destination="xnD-Ed-L4t" id="PUV-r6-Xwm"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="xnD-Ed-L4t">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="xHf-IH-XOv">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="21"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="mj5-nS-10k">
+                            <rect key="frame" x="0.0" y="20" width="320" height="2"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" red="0.1450980392" green="0.054901960780000002" blue="0.070588235289999995" alpha="0.90000000000000002" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+        </view>
+        <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" indicatorStyle="white" id="34">
+            <rect key="frame" x="0.0" y="0.0" width="768" height="1280"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Title-ipad.png" id="234">
+                    <rect key="frame" x="46" y="137" width="676" height="102"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Light.png" id="237">
+                    <rect key="frame" x="0.0" y="0.0" width="768" height="1004"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" hasAttributedTitle="YES" id="40">
+                    <rect key="frame" x="0.0" y="0.0" width="256" height="80"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <state key="normal" title="back">
+                        <attributedString key="attributedTitle">
+                            <fragment content="back">
+                                <attributes>
+                                    <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <font key="NSFont" size="21" name="HelveticaNeue-Bold"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                    </state>
+                    <connections>
+                        <action selector="backButtonPressed:" destination="-1" eventType="touchUpInside" id="41"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" hasAttributedTitle="YES" id="27">
+                    <rect key="frame" x="0.0" y="1212" width="256" height="58"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <state key="normal">
+                        <attributedString key="attributedTitle">
+                            <fragment content="back">
+                                <attributes>
+                                    <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <font key="NSFont" size="21" name="HelveticaNeue-Bold"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                    </state>
+                    <connections>
+                        <action selector="backButtonPressed:" destination="-1" eventType="touchUpInside" id="28"/>
+                    </connections>
+                </button>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="45">
+                    <rect key="frame" x="254" y="0.0" width="514" height="80"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <attributedString key="attributedText">
+                        <fragment content="Version 3.">
+                            <attributes>
+                                <color key="NSColor" red="0.8451960087" green="0.92011147739999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="21" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="21" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="1">
+                            <attributes>
+                                <color key="NSColor" red="0.8451960087" green="0.92011147739999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="21" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content=" for iPad">
+                            <attributes>
+                                <color key="NSColor" red="0.8451960087" green="0.92011147739999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="21" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="21" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="10" adjustsFontSizeToFit="NO" id="46">
+                    <rect key="frame" x="323" y="1210" width="397" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <attributedString key="attributedText">
+                        <fragment content="Version 3.">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="15" name="HelveticaNeue"/>
+                                <font key="NSOriginalFont" size="15" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="1">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="15" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content"> for iPad
+© 201</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="15" name="HelveticaNeue"/>
+                                <font key="NSOriginalFont" size="15" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="5">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="15" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content=" by Marcus Schinkel &amp; wysiwyg* software design">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="15" name="HelveticaNeue"/>
+                                <font key="NSOriginalFont" size="15" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="none" minimumFontSize="10" id="204" userLabel="leftTextLabel">
+                    <rect key="frame" x="48" y="302" width="320" height="660"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <attributedString key="attributedText">
+                        <fragment>
+                            <string key="content">The only App for pop sheets in easy-to-read sheet notation including all verses, bridges and refrains.
+
+More than 300 of the most important pop songs of the 1970s up to the current charts in the form of accessible chord sheets – from Donna Summer to Alicia Keys, ideal for all band musicians and all harmony instruments to accompany singers.
+
+Create your own set lists and transpose the songs in the key of your singer.
+
+The songs are easy to edit and add to, then send to your fellow musicians by email or bluetooth.
+
+You can listen to a sample of the song and make changes without deleting the original as Chord Sheets always keeps a copy.
+
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="Preferences">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Bold"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">
+Screen dimming can be disabled via General Settings &gt; Chord Sheets
+
+If you somehow deleted too many of the original sheets that came with Chord Sheets, you can restore the original sheets via General Setting &gt; Chord Sheets.
+
+Imported and new sheets will remain untouched.</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="none" adjustsFontSizeToFit="NO" id="223" userLabel="rightTextLabel">
+                    <rect key="frame" x="400" y="302" width="320" height="436"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                    <attributedString key="attributedText">
+                        <fragment content="Sharing">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Bold"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">
+Works within playlist and library views via the respective „share“ or „receive“ buttons. Sheets sent to you via Mail open directly in Chord Sheets once you open them in Mail.
+
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="Edit Mode">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Bold"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">
+Simply tap on a chord symbol on a sheet – voilá: you’re in edit mode. Edit everything, CS will automatically create a working copy for you.
+
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="Leave Edit Mode">
+                            <attributes>
+                                <color key="NSColor" red="0.84313725490196079" green="0.92156862745098034" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">
+Double tap anywhere on the sheet. No copy will be made if you didn’t change anything.
+
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84313725490196079" green="0.92156862745098034" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="Set BPM">
+                            <attributes>
+                                <color key="NSColor" red="0.84313725490196079" green="0.92156862745098034" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">
+You can either use the slider or tap the BPM counter at the bottom of the screen.
+
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84313725490196079" green="0.92156862745098034" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="Icons in list view">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Bold"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="✎">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="18" name="LucidaGrande"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">	edited sheet
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="★">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HiraKakuProN-W3"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">	newly created sheet</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Light"/>
+                                <font key="NSOriginalFont" size="16" name="HelveticaNeue-Light"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" minimumFontSize="10" adjustsFontSizeToFit="NO" id="207">
+                    <rect key="frame" x="48" y="1059" width="674" height="44"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <attributedString key="attributedText">
+                        <fragment content="Missing a feature?">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="227">
+                    <rect key="frame" x="0.0" y="1200" width="768" height="2"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="235">
+                    <rect key="frame" x="0.0" y="84" width="768" height="2"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="229">
+                    <rect key="frame" x="0.0" y="1030" width="768" height="2"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="228">
+                    <rect key="frame" x="254" y="1202" width="2" height="84"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="236">
+                    <rect key="frame" x="254" y="0.0" width="2" height="84"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="Button_Outline_iPad.png" id="0bj-5i-Y2i">
+                    <rect key="frame" x="224" y="1110" width="323" height="38"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="4">
+                    <rect key="frame" x="224" y="1106" width="323" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="fork chord sheets on github">
+                        <color key="titleColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="openAppDeveloperPage:" destination="-1" eventType="touchUpInside" id="unE-7Y-Dua"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.1960784314" green="0.070588235289999995" blue="0.090196078430000007" alpha="1" colorSpace="deviceRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </scrollView>
+    </objects>
+    <resources>
+        <image name="#ddeeff.png" width="16" height="16"/>
+        <image name="Button_Outline_iPad.png" width="323" height="38"/>
+        <image name="Light.png" width="768" height="1004"/>
+        <image name="Title-ipad.png" width="676" height="102"/>
+    </resources>
+</document>

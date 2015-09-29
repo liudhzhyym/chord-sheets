@@ -1,0 +1,175 @@
+<sheet>
+  <description>
+    <title>Whenever, Wherever</title>
+    <artist>Shakira</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>A</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G#
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      E
+      /
+      B
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      B
+    </bar>
+    <bar>
+      <opening>
+        <pause/>
+      </opening>
+      <annotation>drum break</annotation>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+      </opening>
+      <annotation>refrain</annotation>
+      C#m
+      /
+      A
+      /
+    </bar>
+    <bar>
+      E
+      /
+      B
+      /
+    </bar>
+    <bar>
+      C#m
+      /
+      A
+      /
+    </bar>
+    <bar>
+      F#m
+      /
+      B
+      /
+    </bar>
+    <bar>
+      C#m
+      /
+      A
+      /
+    </bar>
+    <bar>
+      E
+      /
+      B
+      /
+    </bar>
+    <bar>
+      C#m
+      /
+      A
+      /
+    </bar>
+    <bar>
+      E
+      /
+      B
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+        <pause/>
+      </opening>
+      <annotation>drum break</annotation>
+      /
+      /
+      /
+      <annotation>D.C.</annotation>
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      F#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m
+      /
+      /
+      /
+    </bar>
+    <bar>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B
+      /
+      /
+      <annotation>D.S./refr. ad lib</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

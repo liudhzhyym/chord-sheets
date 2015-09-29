@@ -1,0 +1,138 @@
+<sheet>
+  <description>
+    <title>Life</title>
+    <artist>Des’ree</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Db</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>intro</annotation>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse/refrain</annotation>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gb
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="8"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      A
+      /
+      /
+      /
+    </bar>
+    <bar>
+      B
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>solo</annotation>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bbm
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gb
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Db
+      /
+      <annotation>fine</annotation>
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

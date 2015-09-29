@@ -1,0 +1,122 @@
+<sheet>
+  <description>
+    <title>What You Won’t Do for Love</title>
+    <artist>Go West</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/> 
+      </opening>
+      Cmaj
+      /
+      B7#9
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      A7
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      B7#9
+      /
+    </bar>
+    <bar>
+      Em11
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="3"/>
+      </closing>
+    </bar>
+    <bar>
+      Cmaj
+      /
+      B7#9
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      A7
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      Dsus
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      Dm7
+      G7
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Cmaj
+      /
+      B7#9
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      A7
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      B7#9
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      B7#9
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      Dm7
+      G7
+    </bar>
+    <bar>
+      Cmaj
+      /
+      B7#9
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      A7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

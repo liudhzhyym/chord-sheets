@@ -1,0 +1,44 @@
+<sheet>
+  <description>
+    <title>Let’s Get Loud</title>
+    <artist>Jennifer Lopez</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>C-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Cm
+      /
+      Fm
+      /
+    </bar>
+    <bar>
+      G
+      /
+      Fm
+      Ab
+    </bar>
+    <bar>
+      Cm
+      /
+      Fm
+      /
+    </bar>
+    <bar>
+      G
+      /
+      Fm
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

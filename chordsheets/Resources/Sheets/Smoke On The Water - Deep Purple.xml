@@ -1,0 +1,269 @@
+<sheet>
+  <description>
+    <title>Smoke On The Water</title>
+    <artist>Deep Purple</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>G-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>git.riff</annotation>
+      G5
+      Bb5
+      C5
+      G5
+    </bar>
+    <bar>
+      Bb5
+      Db5
+      C5
+      /
+    </bar>
+    <bar>
+      G5
+      Bb5
+      C5
+      Bb5
+    </bar>
+    <bar>
+      /
+      G5
+      /
+      <annotation>6x</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      G5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      G5
+      /
+      F5
+      /
+    </bar>
+    <bar>
+      G5
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      C5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      C5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ab5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      G5
+      Bb5
+      C5
+      G5
+    </bar>
+    <bar>
+      Bb5
+      Db5
+      C5
+      /
+    </bar>
+    <bar>
+      G5
+      Bb5
+      C5
+      Bb5
+    </bar>
+    <bar>
+      /
+      G5
+      <annotation>last time to live ending</annotation>
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>Solo</annotation>
+      G5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      C5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      G5
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      C5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      F5
+      /
+      /
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      G5
+      Bb5
+      C5
+      G5
+    </bar>
+    <bar>
+      Bb5
+      Db5
+      C5
+      /
+    </bar>
+    <bar>
+      G5
+      Bb5
+      C5
+      Bb5
+    </bar>
+    <bar>
+      /
+      G5
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      G5
+      <annotation>live Ending</annotation>
+      Bb5
+      C5
+      /
+    </bar>
+    <bar>
+      <annotation>snare cue</annotation>
+      /
+      /
+      Bb5
+      C5
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

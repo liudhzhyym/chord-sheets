@@ -1,0 +1,44 @@
+<sheet>
+  <description>
+    <title>Just Friends</title>
+    <artist>Musiq Soulchild</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>E-</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Em
+      /
+      /
+      Ebm
+    </bar>
+    <bar>
+      Dm7
+      /
+      G7
+      /
+    </bar>
+    <bar>
+      Cmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F#m7b5
+      /
+      B7
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

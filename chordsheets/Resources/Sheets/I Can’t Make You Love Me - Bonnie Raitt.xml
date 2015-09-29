@@ -1,0 +1,231 @@
+<sheet>
+  <description>
+    <title>I Can’t Make You Love Me</title>
+    <artist>Bonnie Raitt</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Eb</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      Ebmaj
+      /
+      Gsus
+      /
+    </bar>
+    <bar>
+      Gm11
+      /
+      Ebmaj
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      Gm7/D
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      Cm7
+      /
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>1st instr./2nd + 3rd verse</annotation>
+      Ebmaj
+      /
+      Gsus
+      /
+    </bar>
+    <bar>
+      Gm11
+      /
+      Ebmaj
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      Gm7/D
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>2/4</timesignature>
+      </opening>
+      <annotation>1st 2/4, after D.S. 4/4</annotation>
+      Cm7
+    </bar>
+    <bar>
+      <opening>
+        <timesignature>4/4</timesignature>
+      </opening>
+      Bb/F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      Bb/F
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>refrain</annotation>
+      Eb
+      /
+      Bb
+      /
+    </bar>
+    <bar>
+      Eb6
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      Bb
+      /
+    </bar>
+    <bar>
+      Bb/D
+      /
+      Eb
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      Ebmaj
+      /
+    </bar>
+    <bar>
+      F/A
+      /
+      Gm7
+      /
+    </bar>
+    <bar>
+      Gm7
+      /
+      Ebmaj
+      /
+    </bar>
+    <bar>
+      F/A
+      /
+      Gm7
+      /
+    </bar>
+    <bar>
+      Cm7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Eb
+      /
+      Bb
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      /
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      Ebmaj
+      /
+      /
+      /
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>outro/solos ad lib</annotation>
+      Ebmaj
+      /
+      Gsus
+      /
+    </bar>
+    <bar>
+      Gm11
+      /
+      Ebmaj
+      /
+    </bar>
+    <bar>
+      Ebmaj
+      /
+      Gm7/D
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="1"/>
+      </opening>
+      Gm7
+      /
+      Cm7
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <ending count="2"/>
+      </opening>
+      Cm7
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F6B80257-84DE-464F-B40F-64864CAA776B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>chordsheets</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ba50cd48-93c9-11df-a533-eef26d65d467++1136</key>
+		<string>svn://repo.wysiwyg.de/ios/chordsheets/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>chordsheets.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ba50cd48-93c9-11df-a533-eef26d65d467++1136</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>ba50cd48-93c9-11df-a533-eef26d65d467++1136</key>
+		<string>svn://repo.wysiwyg.de/ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://repo.wysiwyg.de/ios/chordsheets/trunk/chordsheets.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ba50cd48-93c9-11df-a533-eef26d65d467++1136</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ba50cd48-93c9-11df-a533-eef26d65d467++1136</string>
+			<key>IDESourceControlWCCName</key>
+			<string>20_produktion_svn</string>
+		</dict>
+	</array>
+</dict>
+</plist>

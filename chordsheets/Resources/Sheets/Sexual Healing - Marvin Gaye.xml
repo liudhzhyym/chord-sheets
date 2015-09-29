@@ -1,0 +1,142 @@
+<sheet>
+  <description>
+    <title>Sexual Healing</title>
+    <artist>Marvin Gaye</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="100"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>Db</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Ab
+      /
+      Bbm7
+      /
+    </bar>
+    <bar>
+      Gb
+      /
+      Db
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+      </opening>
+      Ab
+      /
+      Bbm7
+      /
+    </bar>
+    <bar>
+      Gb
+      /
+      Db
+      /
+    </bar>
+    <bar>
+      Ab
+      /
+      Bbm7
+      /
+    </bar>
+    <bar>
+      Ebm
+      Fm
+      Gb
+      Ab
+      <closing>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Db
+      /
+      /
+      /
+    </bar>
+    <bar>
+      F7
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gbmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Ebm
+      Fm
+      Gb
+      Ab
+      <closing>
+        <barline class="double" repeat="4"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>Refr.,after D.S. ad lib)</annotation>
+      Ab
+      /
+      Bbm7
+      /
+    </bar>
+    <bar>
+      Gb
+      /
+      Db
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      <annotation>D.S.</annotation>
+      /
+      <closing>
+        <barline class="double" repeat="5"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>

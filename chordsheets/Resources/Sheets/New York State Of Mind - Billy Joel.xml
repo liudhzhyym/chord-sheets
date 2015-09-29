@@ -1,0 +1,217 @@
+<sheet>
+  <description>
+    <title>New York State Of Mind</title>
+    <artist>Billy Joel</artist>
+    <composer>Unknown Composer</composer>
+    <tempo bpm="Unknown"/>
+    <copyright>Unknown Lead Sheet Author</copyright>
+    <style>Unknown Style</style>
+  </description>
+  <notation>
+    <bar>
+      <opening>
+        <keysignature>D</keysignature>
+        <timesignature>4/4</timesignature>
+        <barline class="double"/>
+      </opening>
+      <annotation>Intro</annotation>
+      Bm7
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      A
+      Asus
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="segno"/>
+        <barline class="double" repeat="1"/>
+      </opening>
+      <annotation>verse</annotation>
+      D
+      /
+      F#+
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      Am7
+      D7
+    </bar>
+    <bar>
+      Gmaj
+      /
+      B7
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      C7
+      /
+    </bar>
+    <bar>
+      D
+      A/C#
+      Bm7
+      A
+    </bar>
+    <bar>
+      G
+      Bm/F#
+      E7
+      /
+    </bar>
+    <bar>
+      <annotation>Refrain</annotation>
+      Gmaj
+      /
+      Asus
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      A
+      Asus
+      <closing>
+        <rehearsalmark class="coda"/>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+    <bar>
+      <annotation>bridge</annotation>
+      Bm7
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      Amaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Am7
+      /
+      Dsus
+      /
+    </bar>
+    <bar>
+      Gmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      C#m7b5
+      /
+      F#7
+      /
+    </bar>
+    <bar>
+      Bmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Bm7
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      Amaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Em7
+      /
+      A7
+      /
+      <closing>
+        <rehearsalmark class="coda_dsal"/>
+        <barline class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      <opening>
+        <rehearsalmark class="coda"/>
+      </opening>
+      D
+      A/C#
+      Bm7
+      A
+    </bar>
+    <bar>
+      G
+      Bm/F#
+      E7
+      /
+    </bar>
+    <bar>
+      Gmaj
+      /
+      /
+      /
+    </bar>
+    <bar>
+      Gsus
+      /
+      /
+      /
+    </bar>
+    <bar>
+      <opening>
+        <barline class="double" repeat="1"/>
+      </opening>
+      Bm7
+      /
+      E7
+      /
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="single"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      /
+      /
+      /
+      <closing>
+        <simile class="double"/>
+      </closing>
+    </bar>
+    <bar>
+      /
+      <annotation>rep.ad lib</annotation>
+      /
+      /
+      /
+      <closing>
+        <barline class="double" repeat="1"/>
+      </closing>
+    </bar>
+  </notation>
+</sheet>
