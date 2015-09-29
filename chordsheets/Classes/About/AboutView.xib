@@ -348,7 +348,23 @@ Works within playlist and library views via the respective „share“ or „rec
                         </fragment>
                         <fragment>
                             <string key="content"> for iPhone
-© 2014 by Marcus Schinkel
+© 20</string>
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                <font key="NSOriginalFont" size="12" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="15">
+                            <attributes>
+                                <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content"> by Marcus Schinkel
 &amp; wysiwyg* software design</string>
                             <attributes>
                                 <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
