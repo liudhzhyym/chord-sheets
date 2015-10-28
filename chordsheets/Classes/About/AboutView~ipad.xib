@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9059" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AboutViewController">
@@ -26,11 +26,14 @@
                         <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="mj5-nS-10k">
                             <rect key="frame" x="0.0" y="20" width="320" height="2"/>
                             <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            <animations/>
                         </imageView>
                     </subviews>
+                    <animations/>
                     <color key="backgroundColor" red="0.1450980392" green="0.054901960780000002" blue="0.070588235289999995" alpha="0.90000000000000002" colorSpace="calibratedRGB"/>
                 </view>
             </subviews>
+            <animations/>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <nil key="simulatedStatusBarMetrics"/>
         </view>
@@ -41,14 +44,17 @@
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Title-ipad.png" id="234">
                     <rect key="frame" x="46" y="137" width="676" height="102"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Light.png" id="237">
                     <rect key="frame" x="0.0" y="0.0" width="768" height="1004"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" hasAttributedTitle="YES" id="40">
                     <rect key="frame" x="0.0" y="0.0" width="256" height="80"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                     <state key="normal" title="back">
                         <attributedString key="attributedTitle">
@@ -67,6 +73,7 @@
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" hasAttributedTitle="YES" id="27">
                     <rect key="frame" x="0.0" y="1212" width="256" height="58"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                     <state key="normal">
                         <attributedString key="attributedTitle">
@@ -85,6 +92,7 @@
                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="45">
                     <rect key="frame" x="254" y="0.0" width="514" height="80"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <attributedString key="attributedText">
                         <fragment content="Version 3.">
                             <attributes>
@@ -115,6 +123,7 @@
                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="10" adjustsFontSizeToFit="NO" id="46">
                     <rect key="frame" x="323" y="1210" width="397" height="60"/>
                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     <attributedString key="attributedText">
                         <fragment content="Version 3.">
@@ -125,7 +134,7 @@
                                 <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
                             </attributes>
                         </fragment>
-                        <fragment content="1">
+                        <fragment content="2">
                             <attributes>
                                 <color key="NSColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <font key="NSFont" size="15" name="HelveticaNeue"/>
@@ -163,6 +172,7 @@
                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="none" minimumFontSize="10" id="204" userLabel="leftTextLabel">
                     <rect key="frame" x="48" y="302" width="320" height="660"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <attributedString key="attributedText">
                         <fragment>
                             <string key="content">The only App for pop sheets in easy-to-read sheet notation including all verses, bridges and refrains.
@@ -211,6 +221,7 @@ Imported and new sheets will remain untouched.</string>
                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="none" adjustsFontSizeToFit="NO" id="223" userLabel="rightTextLabel">
                     <rect key="frame" x="400" y="302" width="320" height="436"/>
                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <attributedString key="attributedText">
                         <fragment content="Sharing">
                             <attributes>
@@ -348,6 +359,7 @@ Cg
                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" minimumFontSize="10" adjustsFontSizeToFit="NO" id="207">
                     <rect key="frame" x="48" y="1059" width="674" height="44"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <attributedString key="attributedText">
                         <fragment content="Missing a feature?">
                             <attributes>
@@ -362,30 +374,37 @@ Cg
                 <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="227">
                     <rect key="frame" x="0.0" y="1200" width="768" height="2"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="235">
                     <rect key="frame" x="0.0" y="84" width="768" height="2"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="229">
                     <rect key="frame" x="0.0" y="1030" width="768" height="2"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="228">
                     <rect key="frame" x="254" y="1202" width="2" height="84"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" image="#ddeeff.png" id="236">
                     <rect key="frame" x="254" y="0.0" width="2" height="84"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="Button_Outline_iPad.png" id="0bj-5i-Y2i">
                     <rect key="frame" x="224" y="1110" width="323" height="38"/>
                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                 </imageView>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="4">
                     <rect key="frame" x="224" y="1106" width="323" height="44"/>
                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxY="YES"/>
+                    <animations/>
                     <state key="normal" title="fork chord sheets on github">
                         <color key="titleColor" red="0.84118385039999999" green="0.92019274640000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -395,6 +414,7 @@ Cg
                     </connections>
                 </button>
             </subviews>
+            <animations/>
             <color key="backgroundColor" red="0.1960784314" green="0.070588235289999995" blue="0.090196078430000007" alpha="1" colorSpace="deviceRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>

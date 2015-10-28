@@ -141,6 +141,7 @@ NSString* SHEET_LAYOUT_MODE_BANNER = @"banner";
 		[shadowLayer retain];
 		
 		CALayer* backingLayer = shadowLayer;
+		backingLayer.opacity = .85f;
 		
 		UIImage* shadowImage;
 		

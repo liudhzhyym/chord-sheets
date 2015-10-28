@@ -826,6 +826,16 @@ BOOL optimizeLayout = YES;
 			
 		];
 		
+		UIView* sourceView = keyController.view;
+		alert.popoverPresentationController.sourceView = sourceView;
+		alert.popoverPresentationController.sourceRect = CGRectMake (
+			sourceView.bounds.size.width * (1 - .34375f),
+			sourceView.bounds.size.height * .5f,
+			sourceView.bounds.size.width * .34375f,
+			sourceView.bounds.size.height * .5f
+			
+		);
+		
 		[self presentViewController: alert animated: YES completion: nil];
 		
 	}
@@ -869,6 +879,16 @@ BOOL optimizeLayout = YES;
 		]
 		
 	];
+	
+	UIView* sourceView = keyController.view;
+	alert.popoverPresentationController.sourceView = sourceView;
+	alert.popoverPresentationController.sourceRect = CGRectMake (
+		60,
+		0,
+		34,
+		45
+		
+	);
 	
 	[self presentViewController: alert animated: YES completion: nil];
 	
@@ -1049,6 +1069,16 @@ BOOL optimizeLayout = YES;
 		]
 		
 	];
+	
+	UIView* sourceView = self.navigationController.navigationBar;
+	alert.popoverPresentationController.sourceView = sourceView;
+	alert.popoverPresentationController.sourceRect = CGRectMake (
+		sourceView.bounds.size.width - 60,
+		0,
+		60,
+		sourceView.bounds.size.height
+		
+	);
 	
 	[self presentViewController: alert animated: YES completion: nil];
 	

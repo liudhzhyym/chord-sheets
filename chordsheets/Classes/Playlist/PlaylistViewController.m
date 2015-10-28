@@ -372,6 +372,18 @@
 				
 			];
 			
+			UIView* sourceView = self.toolbar;
+			
+			myMenu.popoverPresentationController.sourceView = sourceView;
+			myMenu.popoverPresentationController.sourceRect = CGRectMake (
+				sourceView.bounds.size.width - 60,
+				0,
+				60,
+				sourceView.bounds.size.height
+				
+			);
+			
+			
 			[self presentViewController: myMenu animated: YES completion: nil];
 			
 			/*
@@ -934,6 +946,17 @@
 			]
 			
 		];
+		
+		UIView* sourceView = self.navigationController.view;
+		
+		myMenu.popoverPresentationController.sourceView = sourceView;
+		myMenu.popoverPresentationController.sourceRect = CGRectMake (
+			sourceView.bounds.size.width - 116,
+			sourceView.bounds.size.height - 44,
+			65,
+			44 / 2 // sourceView.bounds.size.height
+			
+		);
 		
 		[self presentViewController: myMenu animated: YES completion: nil];
 		
