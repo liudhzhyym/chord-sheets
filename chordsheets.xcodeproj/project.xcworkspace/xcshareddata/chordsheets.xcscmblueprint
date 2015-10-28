@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1F2EB0D73B26DE77E684B6F26B6C2A46862B25E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ba50cd48-93c9-11df-a533-eef26d65d467++1136" : 0,
+    "1F2EB0D73B26DE77E684B6F26B6C2A46862B25E1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F6B80257-84DE-464F-B40F-64864CAA776B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ba50cd48-93c9-11df-a533-eef26d65d467++1136" : "20_produktion_svn",
+    "1F2EB0D73B26DE77E684B6F26B6C2A46862B25E1" : "chord-sheets\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "chordsheets",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "chordsheets.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wysiwyg-software-design\/chord-sheets.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F2EB0D73B26DE77E684B6F26B6C2A46862B25E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/repo.wysiwyg.de\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ba50cd48-93c9-11df-a533-eef26d65d467++1136"
+    }
+  ]
+}
